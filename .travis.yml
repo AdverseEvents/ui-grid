@@ -11,16 +11,10 @@ env:
     - JOB=unit
    # - JOB=e2e
   global:
-    - SAUCE_USERNAME=nggrid
+    - SAUCE_USERNAME=cerdman
     - SAUCE_CONNECT_READY_FILE=/tmp/sauce-connect-ready
     - LOGS_DIR=/tmp/angular-build/logs
-    - secure: PEQFPTi8DRVrj6dEl6tQ+QTI07N8A3XST9eu5uHyW9YuDErDpn6rE8iEI2bd6nU5jldF9cCaGprpEi6aTP71jxFkm2Yjk1PRxtSVo5Cvu7sEwaFOnZi2KBgpKAdv8T3GB4rcjePe3oPwSkw1i/s9THSe18KSzZdgwP2LMctlCyA=
-    - secure: A4ur05WzvEsExKuAR81MmxNldgYbpc8VwI/9hC2v+IWAAaFClWDH6OdlbfO8gNaWJVnLmvMS8emA7zkBuKgQhuMP0u8RoSwn7TOObaCICEM7mbFPRwCX1td0/4FyUdUUAE/jw3Cx4SBdrb0qGkMmdg36W4II1BBzkMnJblUfnNU=
-    - secure: W2QpRQppqS1wMhbiOTOzJmaUXZtjUQdoWj+IKuyX6m7/A2A4YDXfNj+vzXfffbVqnBFDzrYRtcZ6IMmHn9QDs4gJaAaQDc1104UEd/sbVEujDn+9YOE3tTdRLE13FgdwwrLNcpypiPZ+rpWvEizRAlwoMXIiVhL8pUc1hysX9qM=
-    - secure: IaTLpsLUet/9al3Lg9n1k+M+5zIEnCwx7fwOjNoUmHYrYRImDUVmtymb9HSdzozn8cV1z+k6V62wghjK0b8c5tZ0mE9PRtEN8Nv1CjVmrbURpQaypC2A1HT3xg3/MDRwvAoiHILPxTo4k5jw1wgNrYKxCLbb7vmvoPwVv7seTT8=
-    - secure: PWz5cYdlrucjbJxUj9WUGo55V8+z/fDST7ihx9uLuhllqaQ+fkdTX5ccn8sv+dp9OPs0ov3Gunv/GIWKB3E6HCsHQJsyZ1Tde3IvyWwz72YeQ5/IZVolX0T1dmX9sLYJxqKjO1/D/Zfj4NkCEjFQmyIB+47tgBTV1OA9h/4TiMk=
-    - secure: BUUB8bjAXcUgq4GNYd0q1seAR26o8UJeIqAY1TcuV1p42d1w1mgBKz6oOEonX3NJTMI7bBNaSVYtpgxroesmVk25FMrsy5ynsY3fTAfiHbyd62IstJjtw0AcVWp+l7Z1WBe6XNhpaW8FS7wOi9jEyV/Ez/ffqgAMmMpG6BHzalk=
-
+    - secure: u1LMU8PhwOtLO5Jnk818SqREQWmhUL1kxCZedEkV7qqeSg77kaMn7Xg5tMhQsa7ijpk/3qMaYodXXB8dDT0q/0anNcDp6eN1vFv+ZN9Vk8dzSpUPB/YP0XH2HSDOvkyrgmD36LPiWk46pmrfJ25Eo0Cg3tYloRIEdjAchJ8OpWOSrT2ZE9qOzycqOZKX9qFcKGDvkM7jTa/pMppWqAgO3LDNzJOGKSMFOYMX6TMu8ye2NyrsG36FjhhK6SZ+2vDESGEdP/BF336yJtkq8gJvIM4+8y/yveeE8wA6gLX/4Z98jTCmynCqwDajzuKq7zO4cnqlEEqQcewJLIrHKWpK/+cjBXa7+CR10cMah0hW2o4w/IPGJjQPz0JFfpcwfGgpRJ6qlDzSddu1zK9EfVqciRJiHc0zcGEml8kFwhAGZt1Xveeq2iKzqsb5JGe1aaSyWhOSTwYnpygEjfXWY+SAIQFloaX7i1w22V+2MPyE+yHlHWf/2gkDwoxJQ8wPXj+pLqhpTaBZHNLMvCHf0lWuqqv2Cdt36daOHMolitGa11WWjL4kfZivUgCjlkDF80OIUJ3ADroIt3F+HSVS6UA9eGTM9VK7oIUBj/ec2x1hYm1NVTVf6Xr4W9vCD310w3Hgl4Znm6RkKy6QZjBnW5jOi4ffNxXXsEKYn/j977uUbR4=
 branches:
   only:
     - master
