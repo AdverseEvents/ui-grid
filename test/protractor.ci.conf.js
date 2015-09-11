@@ -8,7 +8,7 @@ exports.config = {
 
   specs: ['../.tmp/doc-scenarios/**/*.spec.js', 'e2e/**/*.spec.js'],
 
-  sauceUser: process.env.SAUCE_USERNAME,
+  sauceUser: 'cerdman',
   sauceKey: process.env.SAUCE_ACCESS_KEY,
 
   // Capabilities to be passed to the webdriver instance.
