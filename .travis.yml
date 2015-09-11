@@ -4,13 +4,7 @@ sudo: false # defaults to sending build to container-based infrastructure on Tra
 node_js:
   - '0.10'
 
-notifications:
-  webhooks:
-    urls:
-      - https://webhooks.gitter.im/e/c9dc628573cc153706fa
-    on_success: always  # options: [always|never|change] default: always
-    on_failure: always  # options: [always|never|change] default: always
-    on_start: false     # default: false
+
 
 env:
   matrix:
