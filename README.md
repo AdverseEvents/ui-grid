@@ -2,7 +2,7 @@
 
 [![Build Status](https://api.travis-ci.org/AdverseEvents/ui-grid.png?branch=master)](https://travis-ci.org/AdverseEvents/ui-grid) [![Coverage Status](https://coveralls.io/repos/AdverseEvents/ui-grid/badge.png?branch=master)](https://coveralls.io/r/AdverseEvents/ui-grid?branch=master)
 
-[![Selenium Test Status](https://saucelabs.com/browser-matrix/nggrid.svg)](https://saucelabs.com/u/nggrid)
+[![Selenium Test Status](https://saucelabs.com/browser-matrix/cerdman.svg)](https://saucelabs.com/u/cerdman)
 
 # Help!
 
