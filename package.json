@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/angular-ui/ui-grid.git"
+    "url": "https://github.com/AdverseEvents/ui-grid.git"
   },
   "keywords": [
     "angular",
@@ -24,7 +24,7 @@
     "ui grid",
     "data grid"
   ],
-  "author": "UI Grid Team",
+  "author": "cerdman",
   "license": "MIT",
   "dependencies": {
     "bootstrap": "~3.3.5"
