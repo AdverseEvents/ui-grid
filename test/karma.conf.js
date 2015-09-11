@@ -95,7 +95,7 @@ module.exports = function(config) {
     browserNoActivityTimeout: 45000, // 20000,
 
     sauceLabs: {
-      username: 'nggrid',
+      username: process.env.SAUCE_USERNAME,
       startConnect: false,
       testName: 'ui-grid unit tests'
     },
